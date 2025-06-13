@@ -1,6 +1,6 @@
 # Digital Systems Architectures Project
 
-This repository contains the completed implementation of various digital logic components on Artix-7 FPGAs, developed using the VIVADO software. 
+This repository contains the completed implementation of various digital logic components on Artix-7 FPGAs, developed using the VIVADO software. The specific and detailed documentation of each of the components is provided in the "Documentation.pdf" file.
 
 ## Project Structure
 
