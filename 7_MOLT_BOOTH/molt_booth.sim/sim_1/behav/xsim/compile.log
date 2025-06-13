@@ -1,0 +1,38 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/new/UO.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UO'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/adder_sub.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder_sub'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/cont_mod8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cont_mod8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/full_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'full_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/mux_21.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux_21'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/registro8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registro8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/ripple_carry.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ripple_carry'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/shift_register.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'shift_register'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/unita_controllo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'unita_controllo'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/new/moltiplicatore_booth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'moltiplicatore_booth'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/display_seven_segments.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'display_seven_segments'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/clock_divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/cathodes_manager.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cathodes_manager'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/anodes_manager.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'anodes_manager'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/cathodes_input_manager.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cathodes_input_manager'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/counter_mod8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter_mod8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/ButtonDebouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ButtonDebouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/molt_booth_on_board.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'molt_booth_on_board'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'moltiplicatore_booth_tb'

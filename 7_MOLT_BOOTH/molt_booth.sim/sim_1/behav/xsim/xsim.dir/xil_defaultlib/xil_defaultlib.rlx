@@ -1,0 +1,23 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd,1738665320,vhdl,,,,moltiplicatore_booth_tb,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/anodes_manager.vhd,1731595434,vhdl,,,,anodes_manager,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/cathodes_manager.vhd,1731595434,vhdl,,,,cathodes_manager,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/clock_divider.vhd,1731595434,vhdl,,,,clock_divider,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/Display7Seg - Vivado/display_seven_segments.vhd,1731595435,vhdl,,,,display_seven_segments,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/ButtonDebouncer.vhd,1732001997,vhdl,,,,buttondebouncer,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/adder_sub.vhd,1732893641,vhdl,,,,adder_sub,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/cathodes_input_manager.vhd,1731595435,vhdl,,,,cathodes_input_manager,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/cont_mod8.vhd,1732893641,vhdl,,,,cont_mod8,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/counter_mod8.vhd,1731595435,vhdl,,,,counter_mod8,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/full_adder.vhd,1732893641,vhdl,,,,full_adder,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/molt_booth_on_board.vhd,1738668139,vhdl,,,,molt_booth_on_board,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/mux_21.vhd,1738234592,vhdl,,,,mux_21,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/registro8.vhd,1732893641,vhdl,,,,registro8,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/ripple_carry.vhd,1732893641,vhdl,,,,ripple_carry,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/shift_register.vhd,1738243953,vhdl,,,,shift_register,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/imports/new/unita_controllo.vhd,1738668144,vhdl,,,,unita_controllo,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/new/UO.vhd,1738244575,vhdl,,,,uo,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/7_MOLT_BOOTH/molt_booth.srcs/sources_1/new/moltiplicatore_booth.vhd,1738237510,vhdl,,,,moltiplicatore_booth,,,,,,,,

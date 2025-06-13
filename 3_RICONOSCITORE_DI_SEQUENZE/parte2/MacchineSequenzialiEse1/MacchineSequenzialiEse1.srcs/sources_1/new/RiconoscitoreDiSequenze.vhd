@@ -1,0 +1,159 @@
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date: 24.11.2024 13:12:45
+-- Design Name: 
+-- Module Name: RiconoscitoreDiSequenze - Behavioral
+-- Project Name: 
+-- Target Devices: 
+-- Tool Versions: 
+-- Description: 
+-- 
+-- Dependencies: 
+-- 
+-- Revision:
+-- Revision 0.01 - File Created
+-- Additional Comments:
+-- 
+----------------------------------------------------------------------------------
+
+
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+-- Uncomment the following library declaration if using
+-- arithmetic functions with Signed or Unsigned values
+--use IEEE.NUMERIC_STD.ALL;
+
+-- Uncomment the following library declaration if instantiating
+-- any Xilinx leaf cells in this code.
+--library UNISIM;
+--use UNISIM.VComponents.all;
+
+entity RiconoscitoreDiSequenze is
+     Port ( clock : in STD_LOGIC;
+           reset: in STD_LOGIC;
+           Enable: in STD_LOGIC;
+           Mode : in STD_LOGIC;
+           i : in STD_LOGIC;
+           y : out STD_LOGIC);
+end RiconoscitoreDiSequenze;
+
+architecture Behavioral of RiconoscitoreDiSequenze is
+type stato is (S0, S1, S2, S3, S4, Sapp);
+signal stato_corrente0 : stato := S0;
+signal stato_corrente1 : stato := S0;
+
+
+begin
+
+--RICONOSCITORE DI SEQUENZE PARZIALMENTE SOVRAPPOSTO 101 MODE1
+--Sul fronte di clock, vedo se il segnale di button è alto, mel caso acquisisco l'ingresso e cambio stato
+stato_uscita_mem1: process(clock)
+	begin
+	if(reset ='1') then
+	   stato_corrente1<=S0;
+	elsif(clock'event and clock='1') then
+	   if(Mode = '0') then
+	       stato_corrente1 <= S0;
+	   elsif(Enable ='1') then
+           case stato_corrente1 is
+                
+                when S0 =>
+                    if( i = '0' ) then
+                        stato_corrente1 <= S0;
+                    else 
+                        stato_corrente1 <= S1;
+                    end if;
+                 when S1 =>
+                    if( i = '0' ) then
+                        stato_corrente1 <= S2;
+                    else
+                        stato_corrente1 <= S1;
+                    end if;
+                when S2 =>
+                    stato_corrente1 <= S0;
+                when others =>
+                        stato_corrente1 <= S0;
+            end case;
+          end if;
+       end if;
+end process;
+
+--RICONOSCITORE DI SEQUENZE NON SOVRAPPOSTE 101 MODE 0
+--Sul fronte di clock, vedo se il segnale di button è alto, mel caso acquisisco l'ingresso e cambio stato
+stato_uscita_mem0: process(clock)
+	begin
+	if(reset ='1') then
+	   stato_corrente0<=S0;
+	elsif(clock'event and clock='1') then
+	   if( Mode = '1') then
+	       stato_corrente0 <= S0;
+	   elsif(Enable ='1') then
+	   	case stato_corrente0 is
+	   	   
+			when S0 =>
+				if( i = '0' ) then
+					stato_corrente0 <= S2;
+				else 
+					stato_corrente0 <= S1;
+				end if;
+			when S1 =>
+				if( i = '0' ) then
+					stato_corrente0 <= S3;
+				else
+					stato_corrente0 <= S4;
+				end if;
+			when S2 =>
+				if( i = '0' ) then
+					stato_corrente0 <= S4;
+				else
+					stato_corrente0 <= S4;
+				end if;
+            when S3 =>
+				if( i = '0' ) then
+					stato_corrente0 <= S0;
+				else
+					stato_corrente0 <= S0;
+				end if;
+			when S4 =>
+				if( i = '0' ) then
+					stato_corrente0 <= S0;
+				else
+					stato_corrente0 <= S0;
+				end if;       
+			when others =>
+			        stato_corrente0 <= S0;
+		end case;
+		end if;
+	end if;
+end process;
+
+
+process(clock)
+begin
+    if rising_edge(clock) then
+    if reset = '1' then 
+        y <= '0';
+        
+    elsif(Enable='1') then
+       if( Mode = '1') then
+            if(stato_corrente1 = S2 and i = '1') then
+                Y <= '1';
+            else
+                Y <= '0';
+            end if;
+       else
+            if(stato_corrente0 = S3 and i = '1') then
+                Y <= '1';
+            else
+                Y <= '0';
+            end if;
+        end if;   
+    end if;
+   end if;
+end process;
+
+end Behavioral;
+

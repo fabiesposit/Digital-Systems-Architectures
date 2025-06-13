@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Desktop/molt_booth/molt_booth.sim/sim_1/impl/func/xsim/moltiplicatore_booth_tb_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ButtonDebouncer'
+INFO: [VRFC 10-3107] analyzing entity 'cont_mod8'
+INFO: [VRFC 10-3107] analyzing entity 'registro8'
+INFO: [VRFC 10-3107] analyzing entity 'shift_register'
+INFO: [VRFC 10-3107] analyzing entity 'unita_controllo'
+INFO: [VRFC 10-3107] analyzing entity 'UO'
+INFO: [VRFC 10-3107] analyzing entity 'moltiplicatore_booth'
+INFO: [VRFC 10-3107] analyzing entity 'molt_booth_on_board'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'moltiplicatore_booth_tb'

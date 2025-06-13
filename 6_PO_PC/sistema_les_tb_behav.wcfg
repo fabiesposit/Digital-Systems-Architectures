@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sistema_les_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="sistema_les_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="140.460 ns"></ZoomStartTime>
+      <ZoomEndTime time="175.961 ns"></ZoomEndTime>
+      <Cursor1Time time="180.060 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="349"></NameColumnWidth>
+      <ValueColumnWidth column_width="91"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/sistema_les_tb/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/output" type="array">
+      <obj_property name="ElementShortName">output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/stop_the_clock" type="other">
+      <obj_property name="ElementShortName">stop_the_clock</obj_property>
+      <obj_property name="ObjectShortName">stop_the_clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/clock_period" type="other">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/rom/rom" type="array">
+      <obj_property name="ElementShortName">rom[0:7][7:0]</obj_property>
+      <obj_property name="ObjectShortName">rom[0:7][7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/mem/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:7][3:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:7][3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/control_unit/read_rom" type="logic">
+      <obj_property name="ElementShortName">read_rom</obj_property>
+      <obj_property name="ObjectShortName">read_rom</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/control_unit/write" type="logic">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/control_unit/enable_counter" type="logic">
+      <obj_property name="ElementShortName">enable_counter</obj_property>
+      <obj_property name="ObjectShortName">enable_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sistema_les_tb/uut/control_unit/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,14 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot moltiplicatore_booth_tb_func_impl xil_defaultlib.moltiplicatore_booth_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-718] formal port <X> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:41]
+ERROR: [VRFC 10-718] formal port <Y> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:42]
+ERROR: [VRFC 10-718] formal port <start> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:43]
+ERROR: [VRFC 10-718] formal port <clock> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:44]
+ERROR: [VRFC 10-718] formal port <reset> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:45]
+ERROR: [VRFC 10-718] formal port <Z> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:46]
+ERROR: [VRFC 10-718] formal port <stop_cu> does not exist in entity <moltiplicatore_booth>.  Please compare the definition of block <moltiplicatore_booth> to its component declaration and its instantion to detect the mismatch. [C:/Users/mario/Desktop/molt_booth/molt_booth.srcs/sim_1/new/moltiplicatore_booth_tb.vhd:47]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit moltiplicatore_booth_tb in library work failed.

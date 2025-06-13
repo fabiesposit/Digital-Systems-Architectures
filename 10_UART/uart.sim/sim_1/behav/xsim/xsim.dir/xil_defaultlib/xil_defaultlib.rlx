@@ -1,0 +1,14 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sim_1/new/TB_MAIN.vhd,1738425410,vhdl,,,,cfg_tb_main;tb_main,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/imports/ASDi/ELABORATO FINALE/esercizio_8_1/esercizio_8_1.srcs/sources_1/new/MEM.vhd,1738259414,vhdl,,,,mem_n_m,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/imports/ASDi/ELABORATO FINALE/esercizio_8_1/esercizio_8_1.srcs/sources_1/new/ROM_N_M.vhd,1738425452,vhdl,,,,rom_n_m,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/imports/ASDi/LEZIONI/5-Protocolli e architetture per la comunicazione/interfaccia seriale/RS232RefComp.vhd,1738346373,vhdl,,,,rs232refcomp,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/imports/ASDi/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/cont_mod8.vhd,1732609869,vhdl,,,,cont_mod8,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/new/MAIN.vhd,1738259946,vhdl,,,,main,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/new/UC_A.vhd,1738425381,vhdl,,,,uc_a,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/new/UC_B.vhd,1738794786,vhdl,,,,uc_b,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/new/sistema_A.vhd,1738794786,vhdl,,,,sistema_a,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/10_UART/uart.srcs/sources_1/new/sistema_B.vhd,1738794786,vhdl,,,,sistema_b,,,,,,,,

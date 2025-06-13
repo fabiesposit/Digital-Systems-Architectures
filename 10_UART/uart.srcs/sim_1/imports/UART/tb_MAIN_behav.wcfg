@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_MAIN_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_MAIN" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,301.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,657.001 ns"></ZoomEndTime>
+      <Cursor1Time time="2,451.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="184"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="26" />
+   <wvobject fp_name="/tb_MAIN/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/TbClock" type="logic">
+      <obj_property name="ElementShortName">TbClock</obj_property>
+      <obj_property name="ObjectShortName">TbClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/TbSimEnded" type="logic">
+      <obj_property name="ElementShortName">TbSimEnded</obj_property>
+      <obj_property name="ObjectShortName">TbSimEnded</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/TbPeriod" type="other">
+      <obj_property name="ElementShortName">TbPeriod</obj_property>
+      <obj_property name="ObjectShortName">TbPeriod</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/CU_B/write" type="logic">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/CU_B/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/CU_A/START" type="logic">
+      <obj_property name="ElementShortName">START</obj_property>
+      <obj_property name="ObjectShortName">START</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/CU_A/READ" type="logic">
+      <obj_property name="ElementShortName">READ</obj_property>
+      <obj_property name="ObjectShortName">READ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/CU_A/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/CU_B/RDA" type="logic">
+      <obj_property name="ElementShortName">RDA</obj_property>
+      <obj_property name="ObjectShortName">RDA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/CU_B/RD" type="logic">
+      <obj_property name="ElementShortName">RD</obj_property>
+      <obj_property name="ObjectShortName">RD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/CU_A/TBE" type="logic">
+      <obj_property name="ElementShortName">TBE</obj_property>
+      <obj_property name="ObjectShortName">TBE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/CU_A/WR" type="logic">
+      <obj_property name="ElementShortName">WR</obj_property>
+      <obj_property name="ObjectShortName">WR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/Uart/rdReg" type="array">
+      <obj_property name="ElementShortName">rdReg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rdReg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/TXD" type="logic">
+      <obj_property name="ElementShortName">TXD</obj_property>
+      <obj_property name="ObjectShortName">TXD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/Uart/RXD" type="logic">
+      <obj_property name="ElementShortName">RXD</obj_property>
+      <obj_property name="ObjectShortName">RXD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/tfReg" type="array">
+      <obj_property name="ElementShortName">tfReg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tfReg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/tfSReg" type="array">
+      <obj_property name="ElementShortName">tfSReg[10:0]</obj_property>
+      <obj_property name="ObjectShortName">tfSReg[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/strCur" type="other">
+      <obj_property name="ElementShortName">strCur</obj_property>
+      <obj_property name="ObjectShortName">strCur</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/rClkDiv" type="array">
+      <obj_property name="ElementShortName">rClkDiv[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rClkDiv[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/Uart/stbeCur" type="other">
+      <obj_property name="ElementShortName">stbeCur</obj_property>
+      <obj_property name="ObjectShortName">stbeCur</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/MEM/entrata" type="array">
+      <obj_property name="ElementShortName">entrata[7:0]</obj_property>
+      <obj_property name="ObjectShortName">entrata[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/B/MEM/mem" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">mem[0:7][7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:7][7:0]</obj_property>
+      <obj_property name="label">MEMORIA B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_MAIN/dut/A/ROM/rom" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">rom[0:7][7:0]</obj_property>
+      <obj_property name="ObjectShortName">rom[0:7][7:0]</obj_property>
+      <obj_property name="label">ROM A</obj_property>
+   </wvobject>
+</wave_config>

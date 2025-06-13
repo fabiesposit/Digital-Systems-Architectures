@@ -1,0 +1,22 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot cfg_tb_rete4_4_behav xil_defaultlib.cfg_tb_rete4_4 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.priorita [priorita_default]
+Compiling architecture dataflow_v1 of entity xil_defaultlib.mux2_1 [\mux2_1(n=6)\]
+Compiling architecture dataflow of entity xil_defaultlib.demux2_1 [\demux2_1(n=6)\]
+Compiling architecture structural of entity xil_defaultlib.switch [\switch(livello=0)\]
+Compiling architecture structural of entity xil_defaultlib.switch [\switch(livello=1)\]
+Compiling architecture structural of entity xil_defaultlib.rete4_4 [rete4_4_default]
+Compiling architecture tb of entity xil_defaultlib.tb_rete4_4 [tb_rete4_4]
+Built simulation snapshot cfg_tb_rete4_4_behav

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cfg_tb_finalsystem_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_finalsystem" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="29.920 ns"></ZoomStartTime>
+      <ZoomEndTime time="85.121 ns"></ZoomEndTime>
+      <Cursor1Time time="36.120 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="41" />
+   <wvobject fp_name="/tb_finalsystem/resetA" type="logic">
+      <obj_property name="ElementShortName">resetA</obj_property>
+      <obj_property name="ObjectShortName">resetA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/resetB" type="logic">
+      <obj_property name="ElementShortName">resetB</obj_property>
+      <obj_property name="ObjectShortName">resetB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbClock" type="logic">
+      <obj_property name="ElementShortName">TbClock</obj_property>
+      <obj_property name="ObjectShortName">TbClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbSimEnded" type="logic">
+      <obj_property name="ElementShortName">TbSimEnded</obj_property>
+      <obj_property name="ObjectShortName">TbSimEnded</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbClock2" type="logic">
+      <obj_property name="ElementShortName">TbClock2</obj_property>
+      <obj_property name="ObjectShortName">TbClock2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbSimEnded2" type="logic">
+      <obj_property name="ElementShortName">TbSimEnded2</obj_property>
+      <obj_property name="ObjectShortName">TbSimEnded2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbPeriod" type="other">
+      <obj_property name="ElementShortName">TbPeriod</obj_property>
+      <obj_property name="ObjectShortName">TbPeriod</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/TbPeriod2" type="other">
+      <obj_property name="ElementShortName">TbPeriod2</obj_property>
+      <obj_property name="ObjectShortName">TbPeriod2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/clockA" type="logic">
+      <obj_property name="ElementShortName">clockA</obj_property>
+      <obj_property name="ObjectShortName">clockA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/clockB" type="logic">
+      <obj_property name="ElementShortName">clockB</obj_property>
+      <obj_property name="ObjectShortName">clockB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/req" type="logic">
+      <obj_property name="ElementShortName">req</obj_property>
+      <obj_property name="ObjectShortName">req</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/UC/stato_corrente" type="other">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+      <obj_property name="label">stato_corrente_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/UC/stato_corrente" type="other">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+      <obj_property name="label">stato_corrente_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/Read" type="logic">
+      <obj_property name="ElementShortName">Read</obj_property>
+      <obj_property name="ObjectShortName">Read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/req" type="logic">
+      <obj_property name="ElementShortName">req</obj_property>
+      <obj_property name="ObjectShortName">req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/MemA/dout" type="array">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/re" type="logic">
+      <obj_property name="ElementShortName">re</obj_property>
+      <obj_property name="ObjectShortName">re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/dout" type="array">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/sommatore/S_RCA" type="array">
+      <obj_property name="ElementShortName">S_RCA[7:0]</obj_property>
+      <obj_property name="ObjectShortName">S_RCA[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/we" type="logic">
+      <obj_property name="ElementShortName">we</obj_property>
+      <obj_property name="ObjectShortName">we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/re" type="logic">
+      <obj_property name="ElementShortName">re</obj_property>
+      <obj_property name="ObjectShortName">re</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/addr" type="array">
+      <obj_property name="ElementShortName">addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/din" type="array">
+      <obj_property name="ElementShortName">din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/dout" type="array">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:15][7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:15][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/N" type="other">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/addrN" type="other">
+      <obj_property name="ElementShortName">addrN</obj_property>
+      <obj_property name="ObjectShortName">addrN</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/B/MemB/M" type="other">
+      <obj_property name="ElementShortName">M</obj_property>
+      <obj_property name="ObjectShortName">M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/Enable" type="logic">
+      <obj_property name="ElementShortName">Enable</obj_property>
+      <obj_property name="ObjectShortName">Enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/addr" type="array">
+      <obj_property name="ElementShortName">addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/N" type="other">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/addrN" type="other">
+      <obj_property name="ElementShortName">addrN</obj_property>
+      <obj_property name="ObjectShortName">addrN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/M" type="other">
+      <obj_property name="ElementShortName">M</obj_property>
+      <obj_property name="ObjectShortName">M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_finalsystem/dut/A/MemA/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:15][7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:15][7:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/new/DEMUX_1_2.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/new/demux_1_4.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/imports/new/mux_16_1.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/imports/VIVADO-PROJECTS/1_MUX2_1_multipleArch/1_MUX2_1_multipleArch/1_MUX2_1_multipleArch.srcs/sources_1/mux_2_1.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/imports/VIVADO-PROJECTS/2_MUX4_1_structural/2_MUX4_1_structural/2_MUX4_1_structural.srcs/sources_1/new/mux_4_1.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sources_1/new/rete_di_interconnessione.vhd" \
+"../../../../RETE_DI_INTERCONNESSIONE_16_4.srcs/sim_1/new/tbench_rete_di_interconnessione.vhd" \
+
+# Do not sort compile order
+nosort

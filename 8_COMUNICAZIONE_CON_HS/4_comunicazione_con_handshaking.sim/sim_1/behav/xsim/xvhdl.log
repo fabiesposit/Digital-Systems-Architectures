@@ -1,0 +1,22 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'myFA'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/GenericCounter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'GenericCounter'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/GenericMemory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'GenericMemory'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/RCA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RCA_Nbit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/UC_A.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UC_A'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/UC_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UC_B'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/finalsystem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'finalsystem'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/componenti_base/registro8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registro'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/sistemaA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sistemaA'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/sistemaB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sistemaB'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sim_1/new/TB_finalsystem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_finalsystem'

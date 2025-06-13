@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Feb  7 13:09:24 2025
+# Process ID: 36640
+# Current directory: C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/OMEGANET NICOLA/11_SWITCH_MULTISTADIO
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25440 C:\Users\riovi\Dropbox\LABORATORIO\Elaborato_ASDI\OMEGANET NICOLA\11_SWITCH_MULTISTADIO\switch_multistadio.xpr
+# Log file: C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/OMEGANET NICOLA/11_SWITCH_MULTISTADIO/vivado.log
+# Journal file: C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/OMEGANET NICOLA/11_SWITCH_MULTISTADIO\vivado.jou
+# Running On: MARIAP, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16835 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/OMEGANET NICOLA/11_SWITCH_MULTISTADIO/switch_multistadio.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/11_switch_multistadio/switch_multistadio.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/OMEGANET NICOLA/11_SWITCH_MULTISTADIO/switch_multistadio.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/riovi/Dropbox/LABORATORIO/Elaborato_ASDI/11_switch_multistadio/switch_multistadio.xpr
+update_compile_order -fileset sources_1

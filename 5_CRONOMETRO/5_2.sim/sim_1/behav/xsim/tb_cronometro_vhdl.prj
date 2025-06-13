@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../5_2.srcs/sources_1/new/clock_divider.vhd" \
+"../../../../5_2.srcs/sources_1/new/cont_mod_24.vhd" \
+"../../../../5_2.srcs/sources_1/new/cont_mod_60.vhd" \
+"../../../../5_2.srcs/sources_1/new/cronometro.vhd" \
+"../../../../5_2.srcs/sources_1/new/CU_set_cronom.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/new/ButtonDebouncer.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/imports/Display7Seg - Vivado/display_seven_segments.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/imports/Display7Seg - Vivado/clock_filter.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/imports/Display7Seg - Vivado/counter_mod8.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/imports/Display7Seg - Vivado/cathodes_manager.vhd" \
+"../../../../5_2.srcs/sources_1/imports/sources_1/imports/Display7Seg - Vivado/anodes_manager.vhd" \
+"../../../../5_2.srcs/sources_1/new/cronometro_on_board.vhd" \
+"../../../../5_2.srcs/sources_1/new/convertitore.vhd" \
+"../../../../../componenti_base/registro8.vhd" \
+"../../../../5_2.srcs/sim_1/new/cronometro_tb.vhd" \
+
+# Do not sort compile order
+nosort

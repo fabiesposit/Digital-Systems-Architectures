@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a50ticsg324-1L" LaunchTime="1738668151" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/moltiplicatore_booth.dcp">
+  <File Type="PA-TCL" Name="molt_booth_on_board.tcl"/>
+  <File Type="REPORTS-TCL" Name="molt_booth_on_board_reports.tcl"/>
+  <File Type="RDS-RDS" Name="molt_booth_on_board.vds"/>
+  <File Type="RDS-UTIL" Name="molt_booth_on_board_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="molt_booth_on_board_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="molt_booth_on_board.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/UO.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/adder_sub.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/adder_sub.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/cont_mod8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/cont_mod8.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/full_adder.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/full_adder.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/mux_21.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/mux_21.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/registro8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/registro8.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/ripple_carry.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/ripple_carry.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/shift_register.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/shift_register.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/unita_controllo.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/VIVADO-PROJECTS/13_ROBERTSON_SIM/13_ROBERTSON_SIM/13_ROBERTSON_SIM.srcs/sources_1/imports/new/unita_controllo.vhd"/>
+        <Attr Name="ImportTime" Val="1732893641"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/moltiplicatore_booth.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Display7Seg - Vivado/display_seven_segments.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/Display7Seg - Vivado/display_seven_segments.vhd"/>
+        <Attr Name="ImportTime" Val="1731595435"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Display7Seg - Vivado/clock_divider.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/Display7Seg - Vivado/clock_divider.vhd"/>
+        <Attr Name="ImportTime" Val="1731595434"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Display7Seg - Vivado/cathodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/Display7Seg - Vivado/cathodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1731595434"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Display7Seg - Vivado/anodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/Display7Seg - Vivado/anodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1731595434"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/cathodes_input_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/new/cathodes_input_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1731595435"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/counter_mod8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/new/counter_mod8.vhd"/>
+        <Attr Name="ImportTime" Val="1731595435"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/ButtonDebouncer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/imports/new/ButtonDebouncer.vhd"/>
+        <Attr Name="ImportTime" Val="1732001997"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/molt_booth_on_board.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PSRCDIR/sim_1/new/molt_booth_on_board.vhd"/>
+        <Attr Name="ImportTime" Val="1738248060"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="molt_booth_on_board"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/digilent-xdc-master/Nexys-A7-50T-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Architettura dei sistemi digitali/digilent-xdc-master/digilent-xdc-master/Nexys-A7-50T-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1731400106"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/moltiplicatore_booth.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2023"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

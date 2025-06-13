@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../esercizio_5_1.srcs/sources_1/new/clock_divider.vhd" \
+"../../../../esercizio_5_1.srcs/sources_1/new/cont_mod_24.vhd" \
+"../../../../esercizio_5_1.srcs/sources_1/new/cont_mod_60.vhd" \
+"../../../../esercizio_5_1.srcs/sources_1/new/cronometro.vhd" \
+"../../../../esercizio_5_1.srcs/sim_1/new/cronometro_tb.vhd" \
+
+# Do not sort compile order
+nosort

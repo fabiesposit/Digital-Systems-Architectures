@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Note: Starting simulation...
+Time: 0 ps  Iteration: 0  Process: /rom_m_tb/stimulus_process  File: C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sim_1/new/rom_m_tb.vhd
+Note: Testing random values...
+Time: 10 ns  Iteration: 0  Process: /rom_m_tb/stimulus_process  File: C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sim_1/new/rom_m_tb.vhd
+Note: Simulation complete!
+Time: 40 ns  Iteration: 0  Process: /rom_m_tb/stimulus_process  File: C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sim_1/new/rom_m_tb.vhd

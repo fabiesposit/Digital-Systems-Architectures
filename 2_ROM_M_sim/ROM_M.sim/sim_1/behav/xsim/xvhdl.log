@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sources_1/new/machine.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'machine'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sources_1/imports/sources_1/mux_2_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux_2_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sources_1/new/rom.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rom'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sources_1/new/rom_m.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rom_m'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mario/Dropbox/LABORATORIO/ASDi/2_ROM_M_sim/ROM_M.srcs/sim_1/new/rom_m_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rom_m_tb'

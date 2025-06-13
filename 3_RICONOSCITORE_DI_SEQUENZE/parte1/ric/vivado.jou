@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Feb  7 16:00:11 2025
+# Process ID: 36860
+# Current directory: C:/Users/riovi/Dropbox/LABORATORIO/ASDi/3_RICONOSCITORE_DI_SEQUENZE/parte1/ric
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23700 C:\Users\riovi\Dropbox\LABORATORIO\ASDi\3_RICONOSCITORE_DI_SEQUENZE\parte1\ric\ric.xpr
+# Log file: C:/Users/riovi/Dropbox/LABORATORIO/ASDi/3_RICONOSCITORE_DI_SEQUENZE/parte1/ric/vivado.log
+# Journal file: C:/Users/riovi/Dropbox/LABORATORIO/ASDi/3_RICONOSCITORE_DI_SEQUENZE/parte1/ric\vivado.jou
+# Running On: MARIAP, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16835 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/riovi/Dropbox/LABORATORIO/ASDi/3_RICONOSCITORE_DI_SEQUENZE/parte1/ric/ric.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,24 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/A_hs_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'A_hs_B'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/CLA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CLA'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/CLA_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CLA_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'myFA'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/ROM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ROM'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/UC_A.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UC_A'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/UC_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UC_B'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/cont_mod8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cont_mod8'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/registro4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registro4bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/sistemaA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sistemaA'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sources_1/new/sistemaB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sistemaB'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/riovi/Dropbox/LABORATORIO/ASDi/12_ESAME_DICEMBRE/prova_esame_dicembre24.srcs/sim_1/new/TB_A_hs_B.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_A_hs_B'

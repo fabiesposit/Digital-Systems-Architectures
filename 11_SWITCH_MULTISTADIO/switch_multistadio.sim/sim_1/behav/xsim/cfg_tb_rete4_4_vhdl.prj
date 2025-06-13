@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../switch_multistadio.srcs/sources_1/new/demux2_1.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/mux2_1.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/priorita.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/rete4_4.vhd" \
+"../../../../switch_multistadio.srcs/sources_1/new/switch.vhd" \
+"../../../../switch_multistadio.srcs/sim_1/new/TB_rete4_4.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_RiconoscitoreDiSequenze_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_RiconoscitoreDiSequenze" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="45.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="151.601 ns"></ZoomEndTime>
+      <Cursor1Time time="145.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/A" type="logic">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/Mode" type="logic">
+      <obj_property name="ElementShortName">Mode</obj_property>
+      <obj_property name="ObjectShortName">Mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/i" type="logic">
+      <obj_property name="ElementShortName">i</obj_property>
+      <obj_property name="ObjectShortName">i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/y" type="logic">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/dut/stato_corrente0" type="other">
+      <obj_property name="ElementShortName">stato_corrente0</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_RiconoscitoreDiSequenze/dut/stato_corrente1" type="other">
+      <obj_property name="ElementShortName">stato_corrente1</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente1</obj_property>
+   </wvobject>
+</wave_config>

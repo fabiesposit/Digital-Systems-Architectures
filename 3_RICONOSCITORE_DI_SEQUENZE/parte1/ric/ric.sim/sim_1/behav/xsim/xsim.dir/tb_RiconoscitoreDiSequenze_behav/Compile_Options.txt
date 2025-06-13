@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_RiconoscitoreDiSequenze_behav" "xil_defaultlib.tb_RiconoscitoreDiSequenze" -log "elaborate.log" 

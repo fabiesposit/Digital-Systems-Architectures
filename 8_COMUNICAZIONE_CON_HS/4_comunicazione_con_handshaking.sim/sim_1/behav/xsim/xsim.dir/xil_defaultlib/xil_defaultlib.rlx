@@ -1,0 +1,15 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sim_1/new/TB_finalsystem.vhd,1738607102,vhdl,,,,cfg_tb_finalsystem;tb_finalsystem,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/FA.vhd,1737473118,vhdl,,,,myfa,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/GenericCounter.vhd,1737472944,vhdl,,,,genericcounter,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/GenericMemory.vhd,1737892347,vhdl,,,,genericmemory,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/RCA.vhd,1737473143,vhdl,,,,rca_nbit,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/UC_A.vhd,1738607587,vhdl,,,,uc_a,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/UC_B.vhd,1738746565,vhdl,,,,uc_b,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/finalsystem.vhd,1737475926,vhdl,,,,finalsystem,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/sistemaA.vhd,1737474933,vhdl,,,,sistemaa,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/8_COMUNICAZIONE_CON_HS/4_comunicazione_con_handshaking.srcs/sources_1/new/sistemaB.vhd,1738606081,vhdl,,,,sistemab,,,,,,,,
+C:/Users/riovi/Dropbox/LABORATORIO/ASDi/componenti_base/registro8.vhd,1738250517,vhdl,,,,registro,,,,,,,,
